@@ -1,3 +1,5 @@
-# MS-DS
+# MS-DS Courses and Projects
 
-FinalProject5509 is the Jupyter Notebook for the DTSA 5509 Final Project.
+
+## Course DTSA 5509
+[Jupyter Notebook](https://github.com/RobinSmits/MS-DS/blob/main/Course_DTSA5509_FinalProject.ipynb) for the DTSA 5509 Final Project.
